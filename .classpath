@@ -2,30 +2,34 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="akka-actor_2.10-2.1.4.jar"/>
-	<classpathentry kind="lib" path="akka-agent_2.10-2.1.4.jar"/>
-	<classpathentry kind="lib" path="akka-camel_2.10-2.1.4.jar"/>
-	<classpathentry kind="lib" path="akka-cluster-experimental_2.10-2.1.4.jar"/>
-	<classpathentry kind="lib" path="akka-contrib_2.10-2.1.4.jar"/>
-	<classpathentry kind="lib" path="akka-dataflow_2.10-2.1.4.jar"/>
-	<classpathentry kind="lib" path="akka-durable-mailboxes-2.1.4.jar"/>
-	<classpathentry kind="lib" path="akka-file-mailbox_2.10-2.1.4.jar"/>
-	<classpathentry kind="lib" path="akka-kernel_2.10-2.1.4.jar"/>
-	<classpathentry kind="lib" path="akka-mailboxes-common_2.10-2.1.4.jar"/>
-	<classpathentry kind="lib" path="akka-remote_2.10-2.1.4.jar"/>
-	<classpathentry kind="lib" path="akka-remote-tests-experimental_2.10-2.1.4.jar"/>
-	<classpathentry kind="lib" path="akka-slf4j_2.10-2.1.4.jar"/>
-	<classpathentry kind="lib" path="akka-testkit_2.10-2.1.4.jar"/>
-	<classpathentry kind="lib" path="akka-transactor_2.10-2.1.4.jar"/>
-	<classpathentry kind="lib" path="akka-zeromq_2.10-2.1.4.jar"/>
-	<classpathentry kind="lib" path="camel-core-2.10.0.jar"/>
-	<classpathentry kind="lib" path="config-1.0.0.jar"/>
+	<classpathentry kind="lib" path="akka-actor_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-agent_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-camel_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-channels-experimental_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-cluster_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-contrib_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-dataflow_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-durable-mailboxes-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-file-mailbox_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-kernel_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-mailboxes-common_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-multi-node-testkit_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-remote_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-remote-tests_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-slf4j_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-testkit_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-transactor_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="akka-zeromq_2.10-2.2.3.jar"/>
+	<classpathentry kind="lib" path="camel-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="config-1.0.2.jar"/>
 	<classpathentry kind="lib" path="jna-3.0.9.jar"/>
 	<classpathentry kind="lib" path="jnr-constants-0.8.2.jar"/>
-	<classpathentry kind="lib" path="netty-3.5.8.Final.jar"/>
+	<classpathentry kind="lib" path="netty-3.6.6.Final.jar"/>
 	<classpathentry kind="lib" path="protobuf-java-2.4.1.jar"/>
 	<classpathentry kind="lib" path="scala-library.jar"/>
+	<classpathentry kind="lib" path="scala-reflect-2.10.2.jar"/>
 	<classpathentry kind="lib" path="scala-stm_2.10-0.7.jar"/>
+	<classpathentry kind="lib" path="scalabuff-runtime_2.10-1.2.0.jar"/>
 	<classpathentry kind="lib" path="slf4j-api-1.7.2.jar"/>
 	<classpathentry kind="lib" path="uncommons-maths-1.2.2a.jar"/>
 	<classpathentry kind="lib" path="zeromq-scala-binding_2.10-0.0.7.jar"/>
